@@ -21,7 +21,7 @@ $HBASE_HOME/bin/hbase-daemon.sh start thrift
 3. 테이블 생성(hbase shell)
 ```
 create 'chatrooms', 'info'
-create 'chatrooms', 'info'
+create 'messages', 'info'
 ```
 - hbase에서 할 일 끝
 
